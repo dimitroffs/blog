@@ -1,0 +1,14 @@
+<section class="disqus">
+  <div id="disqus_thread"></div>
+  <script type="text/javascript">
+    var disqus_shortname = "{{ site.data.settings.disqus.disqus_shortname }}";
+    var disqus_identifier = "{{ page.url }}";
+    (function() {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+  </script>
+  <noscript>Моля разрешете JavaScript за да видите <a href="http://disqus.com/?ref_noscript">коментарите, с любезното съдействие на Disqus.</a></noscript>
+  <a href="http://disqus.com" class="dsq-brlink">коментарите, с любезното съдействие на <span class="logo-disqus">Disqus</span></a>
+</section>

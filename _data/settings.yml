@@ -1,0 +1,44 @@
+# Change to true for Disqus comments
+disqus:
+  comments: true
+  disqus_shortname: 'dimitroffs'
+
+google-ID: 'UA-125083795-1'
+
+menu:
+- {name: 'Знам', folder: 'pages', file: 'learn.html'}
+- {name: 'Мога', folder: 'pages', file: 'diy.html'}
+- {name: 'Играя', folder: 'pages', file: 'play.html'}
+- {name: 'За мен', folder: 'pages', file: 'about.html'}
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer
+social:
+- {icon: 'twitter', link: 'https://twitter.com/MykoB'}
+- {icon: 'facebook', link: 'https://www.facebook.com/ddimitrov11'}
+# - {icon: 'instagram', link: 'https://instagram.com/<instagram-username>'}
+- {icon: 'envelope', link: 'mailto:mykob.11@gmail.com'}
+- {icon: 'rss-square', link: 'feed.xml'}
+# - {icon: 'rss-square', link: 'rss-feed.xml'}
+
+# Customize site text
+pagination:
+  next_page: 'Нови'
+  previous_page: 'Стари'
+
+sharing_button_prompt: 'Споделяйте на воля!'
+
+related_posts: 'Може би, също ще харесате ...'
+
+months_bg:
+  - Януари
+  - Февруари
+  - Март
+  - Април
+  - Май
+  - Юни
+  - Юли
+  - Август
+  - Септември
+  - Октомври
+  - Ноември
+  - Декември
