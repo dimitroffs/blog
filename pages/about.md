@@ -1,7 +1,7 @@
 ---
 layout: misc
 title: Ето ме и мен ...
-image: me.jpg
+image: about/me.jpg
 ---
 
 Здравейте, сладури!
